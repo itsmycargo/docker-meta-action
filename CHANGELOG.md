@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/itsmycargo/docker-meta-action/compare/v1.0.0...v1.0.1) (2021-08-27)
+
+
+### Bug Fixes
+
+* add support for main tag output ([9d39c7b](https://www.github.com/itsmycargo/docker-meta-action/commit/9d39c7b656c4cff8bf5960f831cd449e62ff4b21))
+* publish image and tag separately ([b54167a](https://www.github.com/itsmycargo/docker-meta-action/commit/b54167a7fadeeca16eeb15f9d84c454728a49936))
+
 ## 1.0.0 (2021-03-01)
 
 
